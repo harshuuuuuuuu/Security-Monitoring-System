@@ -371,10 +371,6 @@ Consider creating a CloudWatch Dashboard to visualize:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
 ### Areas for Enhancement
 
 - Integration with AWS Security Hub
@@ -382,18 +378,6 @@ Contributions are welcome! Please feel free to submit issues, fork the repositor
 - Advanced filtering based on IAM principals
 - Automated remediation workflows
 - Enhanced dashboards and visualizations
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📧 Support
-
-For questions, issues, or feature requests, please open an issue on GitHub or contact the security team.
 
 ---
 
