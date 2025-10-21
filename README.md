@@ -6,6 +6,8 @@
 
 > **Real-time monitoring and alerting system for AWS Secrets Manager access events**
 
+![Uploading image.png…]()
+
 This project implements a comprehensive monitoring solution that tracks and alerts on AWS Secrets Manager access patterns using CloudTrail, CloudWatch, and SNS. Get instant email notifications whenever your secrets are accessed!
 
 ---
