@@ -1,4 +1,4 @@
-# 🔐 AWS Secrets Manager Monitoring System
+# 🔐 Security Monitoring System
 
 [![AWS](https://img.shields.io/badge/AWS-CloudTrail-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/cloudtrail/)
 [![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch)](https://aws.amazon.com/cloudwatch/)
